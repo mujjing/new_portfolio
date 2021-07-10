@@ -23,17 +23,17 @@
   <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
   
   <!-- Animate.css -->
-  <link rel="stylesheet" href="{{ asset('css/animate.css') }}">
+  <link rel="stylesheet" href="../../css/animate.css">
   <!-- Icomoon Icon Fonts-->
-  <link rel="stylesheet" href="{{ asset('css/icomoon.css') }}">
+  <link rel="stylesheet" href="../../css/icomoon.css">
   <!-- Bootstrap  -->
-  <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
+  <link rel="stylesheet" href="../../css/bootstrap.css">
 
   <!-- Theme style  -->
-  <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+  <link rel="stylesheet" href="../../css/style.css">
 
   <!-- Modernizr JS -->
-  <script src="{{ asset('js/modernizr-2.6.2.min.js') }}"></script>
+  <script src="../../js/modernizr-2.6.2.min.js"></script>
   <script src="https://kit.fontawesome.com/571aadaefb.js" crossorigin="anonymous"></script>
   </head>
   <body>
@@ -425,20 +425,20 @@
   
 
   <!-- jQuery -->
-  <script src="{{ asset('js/jquery.min.js') }}"></script>
+  <script src="../../js/jquery.min.js"></script>
   <!-- jQuery Easing -->
-  <script src="{{ asset('js/jquery.easing.1.3.js') }}"></script>
+  <script src="../../js/jquery.easing.1.3.js"></script>
   <!-- Bootstrap -->
-  <script src="{{ asset('js/bootstrap.min.js') }}"></script>
+  <script src="../../js/bootstrap.min.js"></script>
   <!-- Waypoints -->
-  <script src="{{ asset('js/jquery.waypoints.min.js') }}"></script>
+  <script src="../../js/jquery.waypoints.min.js"></script>
   <!-- Stellar Parallax -->
-  <script src="{{ asset('js/jquery.stellar.min.js') }}"></script>
+  <script src="../../js/jquery.stellar.min.js"></script>
   <!-- Easy PieChart -->
-  <script src="{{ asset('js/jquery.easypiechart.min.js') }}"></script>
-  <script src="{{ asset('js/google_map.js') }}"></script>
+  <script src="../../js/jquery.easypiechart.min.js"></script>
+  <script src="../../js/google_map.js"></script>
   <!-- Main -->
-  <script src="{{ asset('js/main.js') }}"></script>
+  <script src="../../js/main.js"></script>
 
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
     <script type="text/javascript">
