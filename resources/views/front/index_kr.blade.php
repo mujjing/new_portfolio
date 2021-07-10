@@ -298,7 +298,7 @@
     </div>
     </div>
     <div class="row">
-    <div class="col-md-6 text-center col-padding animate-box">
+    <div class="col-md-4 text-center col-padding animate-box">
         <a href="#" class="work" style="background-image: url(../images/develop/web.png);">
         <div class="desc">
             <h3>Web</h3>
@@ -306,7 +306,7 @@
         </div>
         </a>
     </div>
-    <div class="col-md-6 text-center col-padding animate-box">
+    <div class="col-md-4 text-center col-padding animate-box">
         <a href="#" class="work" style="background-image: url(../images/develop/ios.jpeg);">
         <div class="desc">
             <h3>iOS</h3>
@@ -314,6 +314,14 @@
         </div>
         </a>
     </div>
+    <div class="col-md-4 text-center col-padding animate-box">
+            <a href="#" class="work" style="background-image: url(../images/develop/java.png);">
+            <div class="desc">
+                <h3>Java</h3>
+                <span>Java develop</span>
+            </div>
+            </a>
+        </div>
     </div>
 </div>
 </div>
