@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\IOSController;
+use App\Http\Controllers\JavaController;
 use App\Http\Controllers\WebController;
 use Illuminate\Support\Facades\Route;
 
@@ -22,3 +24,9 @@ Route::get('/en', [HomeController::class, 'index_en'])->name('home_en');
 Route::get('/jp/web', [WebController::class, 'web_jp'])->name('web_jp');
 Route::get('/kr/web', [WebController::class, 'web_kr'])->name('web_kr');
 Route::get('/en/web', [WebController::class, 'web_en'])->name('web_en');
+Route::get('/jp/iOS', [IOSController::class, 'iOS_jp'])->name('iOS_jp');
+Route::get('/kr/iOS', [IOSController::class, 'iOS_kr'])->name('iOS_kr');
+Route::get('/en/iOS', [IOSController::class, 'iOS_en'])->name('iOS_en');
+Route::get('/jp/java', [JavaController::class, 'java_jp'])->name('java_jp');
+Route::get('/kr/java', [JavaController::class, 'java_kr'])->name('java_kr');
+Route::get('/en/java', [JavaController::class, 'java_en'])->name('java_en');

@@ -11,7 +11,7 @@
 <body>
     <div class="sidebar">
         <div class="logo-details">
-            <i class='bx bx-code-alt icon'></i>
+            <i class='bx bx-code-curly icon'></i>
                 <div class="logo_name">Jh's Portfolio</div>
             <i class='bx bx-menu' id="btn" ></i>
         </div>
@@ -31,17 +31,17 @@
                     <span class="tooltip">iOS</span>
             </li>
             <li>
-                <a href="{{ route('java_jp') }}" class="list_btn">
-                    <i class='bx bx-code-curly' ></i>
-                    <span class="links_name">Java</span>
+                <a href="{{ route('web_jp') }}" class="list_btn">
+                    <i class='bx bx-code-alt' ></i>
+                    <span class="links_name">Web</span>
                 </a>
-                    <span class="tooltip">Java</span>
+                    <span class="tooltip">Web</span>
             </li>
             <li class="profile">
                 <div class="profile-details">
                 <!--<img src="profile.jpg" alt="profileImg">-->
-                    <a href="{{ route('web_kr') }}" class="lanuage_btn"><img src="{{asset('images/flag/korea.png')}}" alt="korea"></a>
-                    <a href="{{ route('web_en') }}" class="lanuage_btn"><img src="{{asset('images/flag/english.png')}}" alt="english"></a>
+                    <a href="{{ route('java_kr') }}" class="lanuage_btn"><img src="{{asset('images/flag/korea.png')}}" alt="korea"></a>
+                    <a href="{{ route('java_en') }}" class="lanuage_btn"><img src="{{asset('images/flag/english.png')}}" alt="english"></a>
                     <a href="#" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></a>
                 </div>
                 <i class='bx bx-font' id="log_out" ></i>
@@ -49,12 +49,7 @@
         </ul>
     </div>
 <section class="home-section">
-    <div class="text">Dashboard</div>
-    <div class="text">Dashboard1</div>
-    <div class="text">Dashboard2</div>
-    v
-    <div class="text">Dashboard3</div>
-    <div class="text">Dashboard4</div>
+    <div class="text">java_jp</div>
 </section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>

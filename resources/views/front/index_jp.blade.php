@@ -319,7 +319,7 @@
           </a>
         </div>
         <div class="col-md-4 text-center col-padding animate-box">
-          <a href="#" class="work" style="background-image: url(../images/develop/ios.jpeg);">
+          <a href="{{route('iOS_jp')}}" class="work" style="background-image: url(../images/develop/ios.jpeg);">
             <div class="desc">
               <h3>iOS</h3>
               <span>iOS develop</span>
@@ -327,7 +327,7 @@
           </a>
         </div>
         <div class="col-md-4 text-center col-padding animate-box">
-          <a href="#" class="work" style="background-image: url(../images/develop/java.png);">
+          <a href="{{route('java_jp')}}" class="work" style="background-image: url(../images/develop/java.png);">
             <div class="desc">
               <h3>Java</h3>
               <span>Java develop</span>
@@ -349,30 +349,30 @@
       <div class="row">
         <div class="col-md-4">
           <div class="fh5co-blog animate-box">
-            <a href="#" class="blog-bg" style="background-image: url(../images/appdev.jpg);"></a>
+            <a class="blog-bg" style="background-image: url(../images/appdev.jpg);"></a>
             <div class="blog-text">
               <span class="posted_on">目標第１</span>
-              <h3><a href="#">自分だけのアプリケーションを計画·開発·配布する。</a></h3>
+              <h3>自分だけのアプリケーションを計画·開発·配布する。</h3>
               <p>大学時代に専攻したバイオテクノロジーの知識をもとに、医学·生命に関するアプリケーション·人々のニーズを把握し、 人々に必要なアプリケーションを開発·配布する。</p>
             </div> 
           </div>
         </div>
         <div class="col-md-4">
           <div class="fh5co-blog animate-box">
-            <a href="#" class="blog-bg" style="background-image: url(../images/salary.jpeg);"></a>
+            <a class="blog-bg" style="background-image: url(../images/salary.jpeg);"></a>
             <div class="blog-text">
               <span class="posted_on">目標第2.</span>
-              <h3><a href="#">40歳以前、年俸1千万を達成する。</a></h3>
+              <h3>40歳以前、年俸1千万を達成する。</h3>
               <p>誰かはお金を追うと思うかもしれないが、このような目標には私の経験、経歴、能力を最低限年俸1千万を得る専門家になることが目標だ。</p>
             </div> 
           </div>
         </div>
         <div class="col-md-4">
           <div class="fh5co-blog animate-box">
-            <a href="#" class="blog-bg" style="background-image: url(../images/super-coder.jpg);"></a>
+            <a class="blog-bg" style="background-image: url(../images/super-coder.jpg);"></a>
             <div class="blog-text">
               <span class="posted_on">目標第3.</span>
-              <h3><a href="#">どこでも認められる開発者になること。</a></h3>
+              <h3>どこでも認められる開発者になること。</h3>
               <p>私の能力を必要などころが多くなるようにスキルアップすること</p>
             </div> 
           </div>

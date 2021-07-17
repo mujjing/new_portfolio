@@ -24,14 +24,14 @@
                     <span class="tooltip">홈</span>
             </li>
             <li>
-                <a href="#" class="list_btn">
+                <a href="{{ route('iOS_kr') }}" class="list_btn">
                     <i class='bx bxl-apple' ></i>
                     <span class="links_name">iOS</span>
                 </a>
                     <span class="tooltip">iOS</span>
             </li>
             <li>
-                <a href="#" class="list_btn">
+                <a href="{{ route('java_kr') }}" class="list_btn">
                     <i class='bx bx-code-curly' ></i>
                     <span class="links_name">Java</span>
                 </a>
