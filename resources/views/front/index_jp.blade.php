@@ -73,10 +73,10 @@
       <div class="row">
         <div class="col-md-4">
           <ul class="info">
-            <li><span class="first-block">Full Name:</span><span class="second-block">Jeon Jihoon(田 知勲(ジョン ジフン))</span></li>
-            <li><span class="first-block">Nationality:</span><span class="second-block">韓国</span></li>
-            <li><span class="first-block">Phone:</span><span class="second-block">+81 080-7808-9223</span></li>
-            <li><span class="first-block">Email:</span><span class="second-block">junji636@gmail.com</span></li>
+            <li><span class="first-block">氏名：</span><span class="second-block">Jeon Jihoon(田 知勲(ジョン ジフン))</span></li>
+            <li><span class="first-block">国籍：</span><span class="second-block">韓国</span></li>
+            <li><span class="first-block">電話番号：</span><span class="second-block">+81 080-7808-9223</span></li>
+            <li><span class="first-block">メール：</span><span class="second-block">junji636@gmail.com</span></li>
             <li><span class="first-block">Blog:</span><span class="second-block">https://velog.io/@ddara23</span></li>
           </ul>
         </div>
@@ -138,6 +138,18 @@
               <div><h3>Education</h3></div>
             </li>
             <li class="animate-box timeline-unverted">
+              <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h3 class="timeline-title">JSL人材開発院</h3>
+                  <span class="company"> 2017.6 - 2018.3</span>
+                </div>
+                <div class="timeline-body">
+                  <p>日本語、JAVA教育</p>
+                </div>
+              </div>
+            </li>
+            <li class="animate-box timeline-inverted">
               <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -299,7 +311,7 @@
       </div>
       <div class="row">
         <div class="col-md-4 text-center col-padding animate-box">
-          <a href="#" class="work" style="background-image: url(../images/develop/web.png);">
+          <a href="{{route('web_jp')}}" class="work" style="background-image: url(../images/develop/web.png);">
             <div class="desc">
               <h3>Web</h3>
               <span>web develop</span>

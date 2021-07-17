@@ -141,6 +141,18 @@
               <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
+                  <h3 class="timeline-title">JSL Human Resources Development Institute</h3>
+                  <span class="company"> 2017.6 - 2018.3</span>
+                </div>
+                <div class="timeline-body">
+                  <p>Japanese、JAVA Education</p>
+                </div>
+              </div>
+            </li>
+            <li class="animate-box timeline-inverted">
+              <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
                   <h3 class="timeline-title">Bachelors Degree</h3>
                   <span class="company">Dong-eui University 2009 - 2017</span>
                 </div>
@@ -299,7 +311,7 @@
       </div>
       <div class="row">
         <div class="col-md-4 text-center col-padding animate-box">
-          <a href="#" class="work" style="background-image: url(../images/develop/web.png);">
+          <a href="{{route('web_en')}}" class="work" style="background-image: url(../images/develop/web.png);">
             <div class="desc">
               <h3>Web</h3>
               <span>web develop</span>
