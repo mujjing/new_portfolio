@@ -217,8 +217,6 @@
 }
 .home-section{
   position: relative;
-  background: #E4E9F7;
-  min-height: 100vh;
   top: 0;
   left: 78px;
   width: calc(100% - 78px);
@@ -249,3 +247,114 @@
   height: 100%;
   width: 100%;
 }
+
+.blog-post{
+  width: 700px;
+  max-width: 98rem;
+  padding: 3rem;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #fff;
+  box-shadow: 0 1.4rem 8rem rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  border-radius: .8rem;
+}
+
+.blog-post_img{
+  min-width: 10rem;
+  max-width: 10rem;
+  height: 10rem;
+  transform: translateX(-4rem);
+  position: relative;
+}
+
+.blog-post_img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: .8rem;
+}
+
+.blog-post_img::before{
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: .5rem .5rem 3rem 1px rgba(0, 0, 0, 0.05);
+  border-radius: .8rem;
+}
+
+.blog-post_date span{
+  display: block;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin: .5rem 0;
+}
+
+.blog-post_title{
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  color: #4facfe;
+}
+
+.blog-post_text{
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.blog-post_cta{
+  display: inline-block;
+  padding: 0.2rem 0.3rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+  color: #fff;
+  background-color: #47b3c0;
+  border-radius: .8rem;
+  text-decoration: none;
+}
+
+.blog-post_cta:hover{
+  background-color: #1d1b31;
+}
+
+@media screen and (max-width: 1068px) {
+  .blog-post{
+    max-width: 40rem;
+    height: 250px;
+  }
+  .blog-post_img{
+    max-width: 10rem;
+    min-width: 10rem;
+    height: 10rem;
+  }
+}
+
+@media screen and (max-width: 868px) {
+  .blog-post{
+    max-width: 40rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .blog-post{
+    width: 30rem;
+    padding: 2.5rem;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    flex-direction: column;
+  }
+  .blog-post_img{
+    transform: translate(0, -8rem);
+  }
+  .blog-post_info{
+    transform: translate(0, -8rem);
+  }
+}
+

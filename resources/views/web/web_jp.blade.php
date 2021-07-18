@@ -49,12 +49,40 @@
         </ul>
     </div>
 <section class="home-section">
-    <div class="text">Dashboard</div>
-    <div class="text">Dashboard1</div>
-    <div class="text">Dashboard2</div>
-    v
-    <div class="text">Dashboard3</div>
-    <div class="text">Dashboard4</div>
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/salary.jpeg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">title</h1>
+            <p class="blog-post_text">text</p>
+            <a href="#" class="blog-post_cta">Read more</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/salary.jpeg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">title</h1>
+            <p class="blog-post_text">text</p>
+            <a href="#" class="blog-post_cta">Read more</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/salary.jpeg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">title</h1>
+            <p class="blog-post_text">text</p>
+            <a href="#" class="blog-post_cta">Read more</a>
+        </div>
+    </div>
 </section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>
