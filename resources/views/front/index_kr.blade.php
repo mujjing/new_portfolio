@@ -319,7 +319,7 @@
         </a>
     </div>
     <div class="col-md-4 text-center col-padding animate-box">
-        <a href="{{route('iOS_kr')}}" class="work" style="background-image: url(../images/develop/ios.jpeg);">
+        <a href="{{route('iOS_kr')}}" class="work" style="background-image: url(../images/develop/ios.jpeg);" onclick="return check()">
         <div class="desc">
             <h3>iOS</h3>
             <span>iOS develop</span>
@@ -327,7 +327,7 @@
         </a>
     </div>
     <div class="col-md-4 text-center col-padding animate-box">
-            <a href="{{route('java_kr')}}" class="work" style="background-image: url(../images/develop/java.png);">
+            <a href="{{route('java_kr')}}" class="work" style="background-image: url(../images/develop/java.png);" onclick="return check()">
             <div class="desc">
                 <h3>Java</h3>
                 <span>Java develop</span>
@@ -477,6 +477,12 @@
                     });
             });
         }
+    </script>
+    <script type='text/javascript'>
+    function check() {
+        alert('이 페이지는 준비중입니다');
+        return false;
+    }
     </script>
 </body>
 </html>
