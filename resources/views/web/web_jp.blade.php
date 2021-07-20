@@ -51,36 +51,52 @@
 <section class="home-section">
     <div class="blog-post">
         <div class="blog-post_img">
-            <img src="{{ asset('images/salary.jpeg') }}" alt="">
+            <img src="{{ asset('images/web/oldportfolio.png') }}" alt="">
         </div>
         <div class="blog-post_info">
-            <h1 class="blog-post_title">title</h1>
-            <p class="blog-post_text">text</p>
-            <a href="#" class="blog-post_cta">Read more</a>
+            <h1 class="blog-post_title">（旧）ポートフォリオサイト</h1>
+            <p class="blog-post_text">先に利用した私のポートフォリオサイト</p>
+            <p class="blog-post_text">言語：html, css, js</p>
+            <a href="https://mujjing.github.io/portfolio/" class="blog-post_cta" target="_blank">サイトを見る</a>
         </div>
     </div>
 </section>
 <section class="home-section">
     <div class="blog-post">
         <div class="blog-post_img">
-            <img src="{{ asset('images/salary.jpeg') }}" alt="">
+            <img src="{{ asset('images/web/347.jpg') }}" alt="">
         </div>
         <div class="blog-post_info">
-            <h1 class="blog-post_title">title</h1>
-            <p class="blog-post_text">text</p>
-            <a href="#" class="blog-post_cta">Read more</a>
+            <h1 class="blog-post_title">フォトコンキャンペーン</h1>
+            <p class="blog-post_text">instagramとwebで応募するフォトコンキャンペーン<br>（現在キャンペーン終了）</p>
+            <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
+            <a href="https://credelio.campaignsplatform.jp/" class="blog-post_cta" target="_blank">サイトを見る</a>
         </div>
     </div>
 </section>
 <section class="home-section">
     <div class="blog-post">
         <div class="blog-post_img">
-            <img src="{{ asset('images/salary.jpeg') }}" alt="">
+            <img src="{{ asset('images/web/347.jpg') }}" alt="">
         </div>
         <div class="blog-post_info">
-            <h1 class="blog-post_title">title</h1>
-            <p class="blog-post_text">text</p>
-            <a href="#" class="blog-post_cta">Read more</a>
+            <h1 class="blog-post_title">クイズキャンペーン</h1>
+            <p class="blog-post_text">毎週内容が違うクイズを解決して応募するキャンペーン</p>
+            <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
+            <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">サイトを見る</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">sumitomo</h1>
+            <p class="blog-post_text">部屋探し風のサイト（改修中）</p>
+            <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
+            <a href="#" class="blog-post_cta" target="_blank">サイトを見る</a>
         </div>
     </div>
 </section>
