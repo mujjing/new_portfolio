@@ -101,7 +101,7 @@
         </div>
         <div class="blog-post_info">
             <h1 class="blog-post_title">フォトコンキャンペーン</h1>
-            <p class="blog-post_text">instagramとwebで応募するフォトコンキャンペーン<br>（現在キャンペーン終了）</p>
+            <p class="blog-post_text">instagramとwebで応募する<br>フォトコンキャンペーン<br>（現在キャンペーン終了）</p>
             <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
             <a href="https://credelio.campaignsplatform.jp/" class="blog-post_cta" target="_blank">サイトを見る</a>
         </div>
@@ -114,7 +114,7 @@
         </div>
         <div class="blog-post_info">
             <h1 class="blog-post_title">クイズキャンペーン</h1>
-            <p class="blog-post_text">毎週内容が違うクイズを解決して応募するキャンペーン</p>
+            <p class="blog-post_text">毎週内容が違うクイズを解決して<br>応募するキャンペーン</p>
             <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
             <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">サイトを見る</a>
         </div>
