@@ -7,8 +7,41 @@
     <title>Web</title>
     <link rel="stylesheet" href="{{ asset('css/web_style.css') }}">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <script src="{{ asset('js/navbar.js') }}" defer></script>
 </head>
 <body>
+    <nav class="navbar">
+        <div class="navbar_logo">
+            <i class='bx bx-code-alt icon'></i>
+                Jh's Portfolio
+                <a href="#" class="navbar_toggleBtn">
+                    <i class='bx bx-menu'></i>
+                </a>
+        </div>
+        <ui class="navbar_menu">
+            <li><a href="{{ route('home_kr') }}" class="list_btn">
+                <i class='bx bx-home-alt'></i>
+                <span class="links_name">홈</span>
+            </a>
+            </li>
+            <li><a href="{{ route('iOS_kr') }}" class="list_btn">
+                <i class='bx bxl-apple' ></i>
+                <span class="links_name">iOS</span>
+            </a>
+            </li>
+            <li>
+                <a href="{{ route('java_kr') }}" class="list_btn">
+                    <i class='bx bx-code-curly' ></i>
+                    <span class="links_name">Java</span>
+                </a>
+            </li>
+        </ui>
+        <ul class="navbar_icons">
+            <li><a href="#" class="lanuage_btn"><img src="{{asset('images/flag/korea.png')}}" alt="korea"></a></li>
+            <li><a href="{{ route('web_en') }}" class="lanuage_btn"><img src="{{asset('images/flag/english.png')}}" alt="english"></a></li>
+            <li><a href="{{ route('web_jp') }}" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></a></li>
+        </ul>
+    </nav>
     <div class="sidebar">
         <div class="logo-details">
             <i class='bx bx-code-alt icon'></i>
@@ -49,12 +82,56 @@
         </ul>
     </div>
 <section class="home-section">
-    <div class="text">Dashboard</div>
-    <div class="text">Dashboard1</div>
-    <div class="text">Dashboard2</div>
-    v
-    <div class="text">Dashboard3</div>
-    <div class="text">Dashboard4</div>
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/oldportfolio.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">포트폴리오 사이트（구 버전）</h1>
+            <p class="blog-post_text">이전에 사용했던 포트폴리오 사이트</p>
+            <p class="blog-post_text">사용언어：html, css, js</p>
+            <a href="https://mujjing.github.io/portfolio/" class="blog-post_cta" target="_blank">사이트 보기</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/347.jpg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">사진응모 캠페인</h1>
+            <p class="blog-post_text">instagram과web으로 응모하는 사진 응모 캠페인<br>（현재 캠페인 종료）</p>
+            <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
+            <a href="https://credelio.campaignsplatform.jp/" class="blog-post_cta" target="_blank">사이트 보기</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/347.jpg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">퀴즈 캠페인</h1>
+            <p class="blog-post_text">매주 내용이 다른 퀴즈를 해결해서 응모하는 캠페인</p>
+            <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
+            <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">사이트 보기</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">sumitomo</h1>
+            <p class="blog-post_text">부동산 느낌의 사이트（수정중）</p>
+            <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
+            <a href="#" class="blog-post_cta" target="_blank">사이트 보기</a>
+        </div>
+    </div>
 </section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>

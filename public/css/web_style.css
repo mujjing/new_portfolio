@@ -325,6 +325,55 @@
   background-color: #1d1b31;
 }
 
+.navbar{
+  display: none;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(71, 179, 192, 0.8);
+}
+
+.navbar_logo {
+  font-size: 24px;
+  color: white;
+}
+
+.navbar_logo i {
+  color: white;
+}
+
+.navbar_menu {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+
+.navbar_menu li {
+  padding: 8px 12px;
+}
+
+.navbar_menu li:hover {
+  background-color: rgba(71, 179, 192, 1.0);
+  border-radius: 4px;
+}
+
+.navbar_icons{
+  list-style: none;
+  color: white;
+  display: flex;
+  padding-left: 0;
+}
+.navbar_icons li {
+  padding: 8px 12px;
+}
+
+.navbar_toggleBtn{
+  display: none;
+  float: right;
+  right: 32px;
+  font-size: 24px;
+  color: white;
+}
+
 @media screen and (max-width: 1068px) {
   .blog-post{
     max-width: 40rem;
@@ -356,11 +405,13 @@
   }
   .blog-post_info{
     transform: translate(0, -8rem);
+    text-align: center;
   }
 
   .blog-post_title{
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 10px;
+    margin-bottom: 10px;
     text-transform: uppercase;
     color: #4facfe;
   }
@@ -369,5 +420,71 @@
     font-size: 10px;
     color: rgba(0, 0, 0, 0.7);
   }
+  .blog-post_cta {
+    margin-top: 20px;
+  }
+
+  .sidebar{
+    display: none;
+  }
+
+  .home-section{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: all 0.5s ease;
+    z-index: 2;
+  }
+  .navbar {
+    display: block;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px 24px;
+}
+
+.navbar_menu {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar_menu li {
+    width: 100%;
+    text-align: center;
+}
+
+.navbar_icons {
+    display: none;
+    justify-content: center;
+    width: 100%;
+}
+
+.navbar_toggleBtn{
+    display: block;
+}
+
+.navbar_menu.active,
+.navbar_icons.active {
+    display: flex;
+}
+.navbar_menu i{
+  color: #fff;
+  height: 30px;
+  min-width: 30px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 30px;
+}
+.navbar_menu .links_name{
+  color: #fff;
+}
+.navbar_menu a{
+  text-decoration: none;
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+}
 }
 
