@@ -24,13 +24,13 @@
                 <span class="links_name">홈</span>
             </a>
             </li>
-            <li><a href="{{ route('iOS_kr') }}" class="list_btn">
+            <li><a href="{{ route('iOS_kr') }}" class="list_btn" onclick="return check()">
                 <i class='bx bxl-apple' ></i>
                 <span class="links_name">iOS</span>
             </a>
             </li>
             <li>
-                <a href="{{ route('java_kr') }}" class="list_btn">
+                <a href="{{ route('java_kr') }}" class="list_btn" onclick="return check()">
                     <i class='bx bx-code-curly' ></i>
                     <span class="links_name">Java</span>
                 </a>
@@ -57,14 +57,14 @@
                     <span class="tooltip">홈</span>
             </li>
             <li>
-                <a href="{{ route('iOS_kr') }}" class="list_btn">
+                <a href="{{ route('iOS_kr') }}" class="list_btn" onclick="return check()">
                     <i class='bx bxl-apple' ></i>
                     <span class="links_name">iOS</span>
                 </a>
                     <span class="tooltip">iOS</span>
             </li>
             <li>
-                <a href="{{ route('java_kr') }}" class="list_btn">
+                <a href="{{ route('java_kr') }}" class="list_btn" onclick="return check()">
                     <i class='bx bx-code-curly' ></i>
                     <span class="links_name">Java</span>
                 </a>
@@ -134,5 +134,11 @@
     </div>
 </section>
 <script src="{{ asset('js/web_script.js') }}"></script>
+<script type='text/javascript'>
+    function check() {
+        alert('이 페이지는 준비중입니다');
+        return false;
+    }
+    </script>
 </body>
 </html>

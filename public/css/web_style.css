@@ -319,6 +319,7 @@
   background-color: #47b3c0;
   border-radius: .8rem;
   text-decoration: none;
+  margin-top: 20px;
 }
 
 .blog-post_cta:hover{
