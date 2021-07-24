@@ -126,8 +126,9 @@
             <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
         </div>
         <div class="blog-post_info">
-            <h1 class="blog-post_title">sumitomo</h1>
-            <p class="blog-post_text">부동산 느낌의 사이트（수정중）</p>
+            <h1 class="blog-post_title">Roomtomo</h1>
+            <p class="blog-post_text">방 찾기 사이트（*수정중）</p>
+            <p class="blog-post_text">[인재개발원에서 팀프로젝트로 만들었던 JSP사이트를 라라벨로 리뉴얼]</p>
             <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
             <a href="#" class="blog-post_cta" target="_blank">사이트 보기</a>
         </div>
