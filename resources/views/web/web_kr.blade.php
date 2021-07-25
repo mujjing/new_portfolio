@@ -97,6 +97,33 @@
 <section class="home-section">
     <div class="blog-post">
         <div class="blog-post_img">
+            <img src="{{ asset('images/web/map.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">InfoMap</h1>
+            <p class="blog-post_text">DB에 저장되어 있는 정보를 지도표시, 확인 하는 사이트</p>
+            <p class="blog-post_text">excel업로드기능, 업로드한 excel 내용을 검색, 수정, 삭제 할 수 있는 사이트</p>
+            <p class="blog-post_text">언어：laravel(php), html, js, css, mysql</p>
+            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">サイトを見る</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">Roomtomo</h1>
+            <p class="blog-post_text">방 찾기 사이트（*수정중）</p>
+            <p class="blog-post_text">[인재개발원에서 팀프로젝트로 만들었던 JSP사이트를 라라벨로 리뉴얼]</p>
+            <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
             <img src="{{ asset('images/web/347.jpg') }}" alt="">
         </div>
         <div class="blog-post_info">
@@ -117,20 +144,6 @@
             <p class="blog-post_text">매주 내용이 다른 퀴즈를 해결해서 응모하는 캠페인</p>
             <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
             <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">사이트 보기</a>
-        </div>
-    </div>
-</section>
-<section class="home-section">
-    <div class="blog-post">
-        <div class="blog-post_img">
-            <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
-        </div>
-        <div class="blog-post_info">
-            <h1 class="blog-post_title">Roomtomo</h1>
-            <p class="blog-post_text">방 찾기 사이트（*수정중）</p>
-            <p class="blog-post_text">[인재개발원에서 팀프로젝트로 만들었던 JSP사이트를 라라벨로 리뉴얼]</p>
-            <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
-            <a href="#" class="blog-post_cta" target="_blank">사이트 보기</a>
         </div>
     </div>
 </section>

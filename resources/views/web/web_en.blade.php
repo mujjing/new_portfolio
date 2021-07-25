@@ -97,6 +97,33 @@
 <section class="home-section">
     <div class="blog-post">
         <div class="blog-post_img">
+            <img src="{{ asset('images/web/map.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">InfoMap</h1>
+            <p class="blog-post_text">Site for map-based information stored in DB</p>
+            <p class="blog-post_text">Excel upload function, site where you can search, update, and delete information uploaded by Excel</p>
+            <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
+            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">サイトを見る</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">Roomtomo</h1>
+            <p class="blog-post_text">a room-searching website（*updating）</p>
+            <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
+            <a href="#" class="blog-post_cta" target="_blank">go site</a>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
             <img src="{{ asset('images/web/347.jpg') }}" alt="">
         </div>
         <div class="blog-post_info">
@@ -117,19 +144,6 @@
             <p class="blog-post_text">a campaign to solve and apply for different quizzes every week</p>
             <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
             <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">go site</a>
-        </div>
-    </div>
-</section>
-<section class="home-section">
-    <div class="blog-post">
-        <div class="blog-post_img">
-            <img src="{{ asset('images/web/sumitomo.png') }}" alt="">
-        </div>
-        <div class="blog-post_info">
-            <h1 class="blog-post_title">Roomtomo</h1>
-            <p class="blog-post_text">a room-searching website（*updating）</p>
-            <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
-            <a href="#" class="blog-post_cta" target="_blank">go site</a>
         </div>
     </div>
 </section>
