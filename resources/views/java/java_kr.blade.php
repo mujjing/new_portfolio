@@ -31,7 +31,7 @@
             </li>
             <li>
                 <a href="{{ route('web_kr') }}" class="list_btn">
-                    <i class='bx bx-code-curly' ></i>
+                    <i class='bx bx-code-alt' ></i>
                     <span class="links_name">Web</span>
                 </a>
             </li>
@@ -65,7 +65,7 @@
             </li>
             <li>
                 <a href="{{ route('web_kr') }}" class="list_btn">
-                    <i class='bx bx-code-curly' ></i>
+                    <i class='bx bx-code-alt' ></i>
                     <span class="links_name">Web</span>
                 </a>
                     <span class="tooltip">Web</span>
