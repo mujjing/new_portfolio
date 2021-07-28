@@ -64,7 +64,7 @@
                     <span class="tooltip">iOS</span>
             </li>
             <li>
-                <a href="{{ route('web_jp') }}" class="list_btn" onclick="return check()">
+                <a href="{{ route('web_jp') }}" class="list_btn">
                     <i class='bx bx-code-curly' ></i>
                     <span class="links_name">Web</span>
                 </a>
