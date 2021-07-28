@@ -39,7 +39,7 @@
         <ul class="navbar_icons">
             <li><a href="#" class="lanuage_btn"><img src="{{asset('images/flag/korea.png')}}" alt="korea"></a></li>
             <li><a href="{{ route('java_en') }}" class="lanuage_btn"><img src="{{asset('images/flag/english.png')}}" alt="english"></a></li>
-            <li><a href="{{ route('java_kr') }}" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></a></li>
+            <li><a href="{{ route('java_jp') }}" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></a></li>
         </ul>
     </nav>
     <div class="sidebar">
