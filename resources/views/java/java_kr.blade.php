@@ -30,7 +30,7 @@
             </a>
             </li>
             <li>
-                <a href="{{ route('web_kr') }}" class="list_btn" onclick="return check()">
+                <a href="{{ route('web_kr') }}" class="list_btn">
                     <i class='bx bx-code-curly' ></i>
                     <span class="links_name">Web</span>
                 </a>
@@ -78,7 +78,7 @@
                     <a href="{{ route('java_jp') }}" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></a>
                 </div>
                 <i class='bx bx-font' id="log_out" ></i>
-            </li>s
+            </li>
         </ul>
     </div>
 <section class="home-section">
