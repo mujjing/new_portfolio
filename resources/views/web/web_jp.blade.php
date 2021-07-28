@@ -122,6 +122,7 @@
     </div>
 </section>
 <section class="home-section">
+    会社のプロジェクト
     <div class="blog-post">
         <div class="blog-post_img">
             <img src="{{ asset('images/web/347.jpg') }}" alt="">
