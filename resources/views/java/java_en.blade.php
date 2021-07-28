@@ -31,7 +31,7 @@
             </li>
             <li>
                 <a href="{{ route('web_en') }}" class="list_btn">
-                    <i class='bx bbx-code-alt' ></i>
+                    <i class='bx bx-code-alt'></i>
                     <span class="links_name">Web</span>
                 </a>
             </li>
