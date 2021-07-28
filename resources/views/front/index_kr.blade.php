@@ -327,7 +327,7 @@
         </a>
     </div>
     <div class="col-md-4 text-center col-padding animate-box">
-            <a href="{{route('java_kr')}}" class="work" style="background-image: url(../images/develop/java.png);" onclick="return check()">
+            <a href="{{route('java_kr')}}" class="work" style="background-image: url(../images/develop/java.png);">
             <div class="desc">
                 <h3>Java</h3>
                 <span>Java develop</span>
