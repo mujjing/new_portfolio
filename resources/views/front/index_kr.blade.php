@@ -250,7 +250,7 @@
         <div class="chart" data-percent="60"><span><strong>CSS3</strong>60%</span></div>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-        <div class="chart" data-percent="40"><span><strong>JavaScript</strong>40%</span></div>
+        <div class="chart" data-percent="60"><span><strong>JavaScript</strong>60%</span></div>
     </div>
 
     <div class="col-md-3 col-sm-6 col-xs-12 text-center">
