@@ -104,7 +104,7 @@
             <p class="blog-post_text">DB에 저장되어 있는 정보를 지도표시, 확인 하는 사이트</p>
             <p class="blog-post_text">excel업로드기능, 업로드한 excel 내용을 검색, 수정, 삭제 할 수 있는 사이트</p>
             <p class="blog-post_text">언어：laravel(php), html, js, css, mysql</p>
-            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">サイトを見る</a>
+            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">사이트 보기</a>
         </div>
     </div>
 </section>

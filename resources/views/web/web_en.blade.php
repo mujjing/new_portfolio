@@ -104,7 +104,7 @@
             <p class="blog-post_text">Site for map-based information stored in DB</p>
             <p class="blog-post_text">Excel upload function, site where you can search, update, and delete information uploaded by Excel</p>
             <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
-            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">サイトを見る</a>
+            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">go site</a>
         </div>
     </div>
 </section>
@@ -117,7 +117,6 @@
             <h1 class="blog-post_title">Roomtomo</h1>
             <p class="blog-post_text">a room-searching website（*updating）</p>
             <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
-            <a href="#" class="blog-post_cta" target="_blank">go site</a>
         </div>
     </div>
 </section>
