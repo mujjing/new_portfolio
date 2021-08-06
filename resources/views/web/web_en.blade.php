@@ -103,7 +103,7 @@
             <h1 class="blog-post_title">InfoMap</h1>
             <p class="blog-post_text">Site for map-based information stored in DB</p>
             <p class="blog-post_text">Excel upload function, site where you can search, update, and delete information uploaded by Excel</p>
-            <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
+            <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
             <a href="https://infomap.ga" class="blog-post_cta" target="_blank">go site</a>
         </div>
     </div>
