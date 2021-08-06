@@ -130,7 +130,6 @@
             <h1 class="blog-post_title">photo contest campaign</h1>
             <p class="blog-post_text">Photo contest campaign to apply on instagram and web<br>（Current campaign is over）</p>
             <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
-            <a href="https://credelio.campaignsplatform.jp/" class="blog-post_cta" target="_blank">go site</a>
         </div>
     </div>
 </section>
@@ -143,7 +142,6 @@
             <h1 class="blog-post_title">quiz campaign</h1>
             <p class="blog-post_text">a campaign to solve and apply for different quizzes every week</p>
             <p class="blog-post_text">language：laravel(php), html, js, css, mysql</p>
-            <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">go site</a>
         </div>
     </div>
 </section>

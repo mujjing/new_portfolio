@@ -130,7 +130,6 @@
             <h1 class="blog-post_title">사진응모 캠페인</h1>
             <p class="blog-post_text">instagram과web으로 응모하는 사진 응모 캠페인<br>（현재 캠페인 종료）</p>
             <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
-            <a href="https://credelio.campaignsplatform.jp/" class="blog-post_cta" target="_blank">사이트 보기</a>
         </div>
     </div>
 </section>
@@ -143,7 +142,6 @@
             <h1 class="blog-post_title">퀴즈 캠페인</h1>
             <p class="blog-post_text">매주 내용이 다른 퀴즈를 해결해서 응모하는 캠페인</p>
             <p class="blog-post_text">사용언어：laravel(php), html, js, css, mysql</p>
-            <a href="https://www.netsuzero.jp/quiz2021CP/" class="blog-post_cta" target="_blank">사이트 보기</a>
         </div>
     </div>
 </section>
