@@ -77,7 +77,7 @@
             <li><span class="first-block">国籍：</span><span class="second-block">韓国</span></li>
             <li><span class="first-block">電話番号：</span><span class="second-block">+81 080-7808-9223</span></li>
             <li><span class="first-block">メール：</span><span class="second-block">junji636@gmail.com</span></li>
-            <li><span class="first-block">Blog:</span><span class="second-block">https://velog.io/@ddara23</span></li>
+            <li><span class="first-block">Blog:</span><span class="second-block"><a href="https://velog.io/@ddara23" target="_blank">velog</a></span></li>
           </ul>
         </div>
         <div class="col-md-8">
