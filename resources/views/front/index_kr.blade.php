@@ -8,11 +8,11 @@
 <meta name="description" content="Jh's Portfolio WebSite" />
 <meta name="keywords" content="포트폴리오, 개발자, 개발자 포트폴리오, portfolio, developer, resume, 개발자 이력서" />
 <meta name="author" content="Jihoon" />
-<meta property="og:title" content=""/>
-<meta property="og:image" content=""/>
-<meta property="og:url" content=""/>
-<meta property="og:site_name" content=""/>
-<meta property="og:description" content=""/>
+<meta property="og:title" content="jh's portfolio"/>
+<meta property="og:image" content="../../images/0x0.png"/>
+<meta property="og:url" content="https://jhportfolio.ga/kr"/>
+<meta property="og:site_name" content="jh's portfolio"/>
+<meta property="og:description" content="jh's portfolio"/>
 <meta name="twitter:title" content="" />
 <meta name="twitter:image" content="" />
 <meta name="twitter:url" content="" />
