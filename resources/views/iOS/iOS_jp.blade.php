@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Web</title>
+    <title>Swift</title>
     <link rel="stylesheet" href="{{ asset('css/web_style.css') }}">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <script src="{{ asset('js/navbar.js') }}" defer></script>
 </head>
 <body>
     <nav class="navbar">
