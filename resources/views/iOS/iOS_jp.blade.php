@@ -19,18 +19,18 @@
                 </a>
         </div>
         <ui class="navbar_menu">
-            <li><a href="{{ route('home_en') }}" class="list_btn">
+            <li><a href="{{ route('home_jp') }}" class="list_btn">
                 <i class='bx bx-home-alt'></i>
                 <span class="links_name">ホーム</span>
             </a>
             </li>
-            <li><a href="{{ route('web_en') }}" class="list_btn">
+            <li><a href="{{ route('web_jp') }}" class="list_btn">
                 <i class='bx bx-code-alt'></i>
                 <span class="links_name">Web</span>
             </a>
             </li>
             <li>
-                <a href="{{ route('java_en') }}" class="list_btn">
+                <a href="{{ route('java_jp') }}" class="list_btn">
                     <i class='bx bx-code-curly' ></i>
                     <span class="links_name">Java</span>
                 </a>
