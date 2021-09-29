@@ -244,31 +244,31 @@
       </div>
       <div class="row row-pb-md">
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="60"><span><strong>HTML</strong>60%</span></div>
+            <div class="chart" data-percent="70"><span><strong>HTML</strong>70%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="60"><span><strong>CSS3</strong>60%</span></div>
+            <div class="chart" data-percent="65"><span><strong>CSS3</strong>65%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="60"><span><strong>JavaScript</strong>60%</span></div>
+            <div class="chart" data-percent="65"><span><strong>JavaScript</strong>65%</span></div>
         </div>
-
+    
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="20"><span><strong>Java</strong>20%</span></div>
-        </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="40"><span><strong>Kotlin</strong>40%</span></div>
+            <div class="chart" data-percent="20"><span><strong>Java</strong>20%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>75%</span></div>
+            <div class="chart" data-percent="60"><span><strong>Kotlin</strong>60%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="75"><span><strong>swift</strong>75%</span></div>
+            <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>75%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-          <div class="chart" data-percent="70"><span><strong>MySql</strong>70%</span></div>
+            <div class="chart" data-percent="75"><span><strong>swift</strong>75%</span></div>
         </div>
-      </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 text-center">
+            <div class="chart" data-percent="70"><span><strong>MySql</strong>70%</span></div>
+        </div>
+        </div>
       <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
           <h2>Tools</h2>
