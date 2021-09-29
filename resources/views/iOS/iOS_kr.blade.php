@@ -39,7 +39,7 @@
         <ul class="navbar_icons">
             <li><a href="#" class="lanuage_btn"><img src="{{asset('images/flag/korea.png')}}" alt="korea"></a></li>
             <li><a href="{{ route('iOS_en') }}" class="lanuage_btn"><img src="{{asset('images/flag/english.png')}}" alt="english"></a></li>
-            <li><a href="{{ route('iOS_jp') }}" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></li>
+            <li><a href="{{ route('iOS_jp') }}" class="lanuage_btn"><img src="{{asset('images/flag/japan.png')}}" alt="japan"></a></li>
         </ul>
     </nav>
     <div class="sidebar">
@@ -81,42 +81,42 @@
             </li>
         </ul>
     </div>
-    <section class="home-section">
-        <div class="blog-post">
-            <div class="blog-post_img">
-                <img src="{{ asset('images/iOS/pj3.PNG') }}" alt="">
-            </div>
-            <div class="blog-post_info">
-                <h1 class="blog-post_title">메모어플</h1>
-                <p class="blog-post_text">처음으로 앱스토어에 릴리즈한 메모 어플</p>
-                <p class="blog-post_text">swift</p>
-            </div>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/pj3.PNG') }}" alt="">
         </div>
-    </section>
-    <section class="home-section">
-        <div class="blog-post">
-            <div class="blog-post_img">
-                <img src="{{ asset('images/iOS/receipt.jpeg') }}" alt="">
-            </div>
-            <div class="blog-post_info">
-                <h1 class="blog-post_title">포인트 교환 어플</h1>
-                <p class="blog-post_text">쇼핑 후에 받은 영수증사진을 전송하면 포인트로 교환해주는 어플 리뉴얼</p>
-                <p class="blog-post_text">swift</p>
-            </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">메모어플</h1>
+            <p class="blog-post_text">처음으로 앱스토어에 릴리즈한 메모 어플</p>
+            <p class="blog-post_text">swift</p>
         </div>
-    </section>
-    <section class="home-section">
-        <div class="blog-post">
-            <div class="blog-post_img">
-                <img src="{{ asset('images/iOS/baby.jpeg') }}" alt="">
-            </div>
-            <div class="blog-post_info">
-                <h1 class="blog-post_title">아기성장 마이나비</h1>
-                <p class="blog-post_text">아기의 성장기록, 성장에 도움되는 정보, 뉴스 등을 확인 할 수 있는 어플</p>
-                <p class="blog-post_text">swift</p>
-            </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/receipt.jpeg') }}" alt="">
         </div>
-    </section>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">포인트 교환 어플</h1>
+            <p class="blog-post_text">쇼핑 후에 받은 영수증사진을 전송하면 포인트로 교환해주는 어플 리뉴얼</p>
+            <p class="blog-post_text">swift</p>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/baby.jpeg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">아기성장 마이나비</h1>
+            <p class="blog-post_text">아기의 성장기록, 성장에 도움되는 정보, 뉴스 등을 확인 할 수 있는 어플</p>
+            <p class="blog-post_text">swift</p>
+        </div>
+    </div>
+</section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>
 </html>
