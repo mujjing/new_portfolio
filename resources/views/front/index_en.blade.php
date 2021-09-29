@@ -319,7 +319,7 @@
           </a>
         </div>
         <div class="col-md-4 text-center col-padding animate-box">
-          <a href="{{route('iOS_en')}}" class="work" style="background-image: url(../images/develop/ios.jpeg);" onclick="return check()">
+          <a href="{{route('iOS_en')}}" class="work" style="background-image: url(../images/develop/ios.jpeg);">
             <div class="desc">
               <h3>iOS</h3>
               <span>iOS develop</span>
