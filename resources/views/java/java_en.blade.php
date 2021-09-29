@@ -24,7 +24,7 @@
                 <span class="links_name">ホーム</span>
             </a>
             </li>
-            <li><a href="{{ route('iOS_en') }}" class="list_btn" onclick="return check()">
+            <li><a href="{{ route('iOS_en') }}" class="list_btn">
                 <i class='bx bxl-apple' ></i>
                 <span class="links_name">iOS</span>
             </a>
@@ -57,7 +57,7 @@
                     <span class="tooltip">home</span>
             </li>
             <li>
-                <a href="{{ route('iOS_en') }}" class="list_btn" onclick="return check()">
+                <a href="{{ route('iOS_en') }}" class="list_btn">
                     <i class='bx bxl-apple' ></i>
                     <span class="links_name">iOS</span>
                 </a>
