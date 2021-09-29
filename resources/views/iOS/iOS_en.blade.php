@@ -84,7 +84,7 @@
     <section class="home-section">
         <div class="blog-post">
             <div class="blog-post_img">
-                <img src="{{ asset('images/iOS/pj3.jpeg') }}" alt="">
+                <img src="{{ asset('images/iOS/pj3.PNG') }}" alt="">
             </div>
             <div class="blog-post_info">
                 <h1 class="blog-post_title">Memo app</h1>
