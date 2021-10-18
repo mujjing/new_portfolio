@@ -89,7 +89,8 @@
         <div class="blog-post_info">
             <h1 class="blog-post_title">메모어플</h1>
             <p class="blog-post_text">처음으로 앱스토어에 릴리즈한 메모 어플</p>
-            <p class="blog-post_text">swift</p>
+            <p class="blog-post_text">주요기술：core data, local notification</p>
+            <p class="blog-post_text">언어 : swift</p>
         </div>
     </div>
 </section>
@@ -101,7 +102,8 @@
         <div class="blog-post_info">
             <h1 class="blog-post_title">포인트 교환 어플</h1>
             <p class="blog-post_text">쇼핑 후에 받은 영수증사진을 전송하면 포인트로 교환해주는 어플 리뉴얼</p>
-            <p class="blog-post_text">swift</p>
+            <p class="blog-post_text">주요기술：Firebase, Local Notification</p>
+            <p class="blog-post_text">언어 : swift</p>
         </div>
     </div>
 </section>
@@ -113,7 +115,8 @@
         <div class="blog-post_info">
             <h1 class="blog-post_title">아기성장 마이나비</h1>
             <p class="blog-post_text">아기의 성장기록, 성장에 도움되는 정보, 뉴스 등을 확인 할 수 있는 어플</p>
-            <p class="blog-post_text">swift</p>
+            <p class="blog-post_text">주요기술：chart, Local Notification, Alamofire, MVVM</p>
+            <p class="blog-post_text">언어 : swift</p>
         </div>
     </div>
 </section>

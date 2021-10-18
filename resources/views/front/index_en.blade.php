@@ -9,7 +9,7 @@
   <meta name="keywords" content="포트폴리오, 개발자, 개발자 포트폴리오, portfolio, developer, resume, 개발자 이력서" />
   <meta name="author" content="Jihoon" />
   <meta property="og:title" content="jh's portfolio"/>
-  <meta property="og:image" content="../../images/0x0.png"/>
+  <meta property="og:image" content="../../images/profile.JPG"/>
   <meta property="og:url" content="https://jhportfolio.ga/en"/>
   <meta property="og:site_name" content="jh's portfolio"/>
   <meta property="og:description" content="jh's portfolio"/>
@@ -45,7 +45,7 @@
         <div class="col-md-8 col-md-offset-2 text-center">
           <div class="display-t js-fullheight">
             <div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-              <div class="profile-thumb" style="background: url(../images/0x0.png);"></div>
+              <div class="profile-thumb" style="background: url(../images/profile.JPG);"></div>
               <h1><span>Jihoon Jeon</span></h1>
               <h3><span>Web Developer / iOS Developer</span></h3>
               <div class="flag-box">
