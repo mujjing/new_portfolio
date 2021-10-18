@@ -89,7 +89,8 @@
             <div class="blog-post_info">
                 <h1 class="blog-post_title">Memo app</h1>
                 <p class="blog-post_text">It's the first memo app to be released on the app store.</p>
-                <p class="blog-post_text">swift</p>
+                <p class="blog-post_text">main skills：core data, local notification</p>
+                <p class="blog-post_text">language : swift</p>
             </div>
         </div>
     </section>
@@ -101,7 +102,8 @@
             <div class="blog-post_info">
                 <h1 class="blog-post_title">Point exchange app</h1>
                 <p class="blog-post_text">Renewal of the app where you exchange the photo of the receipt you received after shopping.</p>
-                <p class="blog-post_text">swift</p>
+                <p class="blog-post_text">main skills：Firebase, Local Notification</p>
+                <p class="blog-post_text">language : swift</p>
             </div>
         </div>
     </section>
@@ -113,7 +115,8 @@
             <div class="blog-post_info">
                 <h1 class="blog-post_title">Baby Grown-up Check app</h1>
                 <p class="blog-post_text">An application that allows you to check baby growth records, information, news, etc.</p>
-                <p class="blog-post_text">swift</p>
+                <p class="blog-post_text">main skills：chart, Local Notification, Alamofire, MVVM</p>
+                <p class="blog-post_text">language : swift</p>
             </div>
         </div>
     </section>

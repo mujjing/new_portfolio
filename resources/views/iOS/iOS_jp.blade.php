@@ -89,7 +89,8 @@
         <div class="blog-post_info">
             <h1 class="blog-post_title">メモアプリ</h1>
             <p class="blog-post_text">初めてアプリストアにアップロードしたメモアプリ</p>
-            <p class="blog-post_text">swift</p>
+            <p class="blog-post_text">主要スキル：core data, local notification</p>
+            <p class="blog-post_text">言語：swift</p>
         </div>
     </div>
 </section>
@@ -101,7 +102,8 @@
         <div class="blog-post_info">
             <h1 class="blog-post_title">ポイント交換アプリ</h1>
             <p class="blog-post_text">買い物をしてもらう領収書の写真を送るとポイントをゲットできるアプリのリニュアル</p>
-            <p class="blog-post_text">swift</p>
+            <p class="blog-post_text">主要スキル：Firebase, Local Notification</p>
+            <p class="blog-post_text">言語：swift</p>
         </div>
     </div>
 </section>
@@ -113,7 +115,8 @@
         <div class="blog-post_info">
             <h1 class="blog-post_title">赤ちゃんマイナビ</h1>
             <p class="blog-post_text">赤ちゃんの成長記録と育てる時に役に立てる情報とニュースを確認できるアプリ</p>
-            <p class="blog-post_text">swift</p>
+            <p class="blog-post_text">主要スキル：chart, Local Notification, Alamofire, MVVM</p>
+            <p class="blog-post_text">言語：swift</p>
         </div>
     </div>
 </section>
