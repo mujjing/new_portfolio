@@ -104,7 +104,6 @@
             <p class="blog-post_text">DBに保存されている情報を地図で確認するサイト</p>
             <p class="blog-post_text">excelアップロード機能、excelでアップロードした情報を検索、更新、削除もできるサイト</p>
             <p class="blog-post_text">言語：laravel(php), html, js, css, mysql</p>
-            <a href="https://infomap.ga" class="blog-post_cta" target="_blank">サイトを見る</a>
         </div>
     </div>
 </section>
