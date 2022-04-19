@@ -113,7 +113,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h3 class="timeline-title">株式会社Winas((C)Winas)</h3>
-                  <span class="company">2020.01.01 ~ Current</span>
+                  <span class="company">2020.01.01 ~ 2022.03.31</span>
                 </div>
                 <div class="timeline-body">
                   <p>web develop(laravel) / iOS develop</p>
