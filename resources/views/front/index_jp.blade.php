@@ -108,6 +108,18 @@
             <li class="timeline-heading text-center animate-box">
               <div><h3>Work Experience</h3></div>
             </li>
+            <li class="timeline-inverted animate-box">
+              <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h3 class="timeline-title">スパイダープラス株式会社</h3>
+                  <span class="company">2022.04.01 ~ 現在</span>
+                </div>
+                <div class="timeline-body">
+                  <p>iOS develop</p>
+                </div>
+              </div>
+            </li>
             <li class="animate-box timeline-unverted">
               <div class="timeline-badge"><i class="icon-suitcase"></i></div>
               <div class="timeline-panel">
