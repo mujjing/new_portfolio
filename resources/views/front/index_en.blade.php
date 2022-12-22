@@ -272,10 +272,10 @@
             <div class="chart" data-percent="60"><span><strong>Kotlin</strong>60%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-            <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>75%</span></div>
+            <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>70%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-            <div class="chart" data-percent="75"><span><strong>swift</strong>75%</span></div>
+            <div class="chart" data-percent="75"><span><strong>swift(SwiftUI)</strong>80%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
             <div class="chart" data-percent="70"><span><strong>MySql</strong>70%</span></div>
