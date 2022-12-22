@@ -120,6 +120,30 @@
             </div>
         </div>
     </section>
+    <section class="home-section">
+        <div class="blog-post">
+            <div class="blog-post_img">
+                <img src="{{ asset('images/iOS/nicos.png') }}" alt="">
+            </div>
+            <div class="blog-post_info">
+                <h1 class="blog-post_title">Invoice amount/point balance confirmation app</h1>
+                <p class="blog-post_text">Application maintenance/correction work for checking billing amount/point balance</p>
+                <p class="blog-post_text">language：swift</p>
+            </div>
+        </div>
+    </section>
+    <section class="home-section">
+        <div class="blog-post">
+            <div class="blog-post_img">
+                <img src="{{ asset('images/iOS/spiderplus.jpeg') }}" alt="">
+            </div>
+            <div class="blog-post_info">
+                <h1 class="blog-post_title">construction app</h1>
+                <p class="blog-post_text">construction site application development</p>
+                <p class="blog-post_text">language：SwiftUI</p>
+            </div>
+        </div>
+    </section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>
 </html>

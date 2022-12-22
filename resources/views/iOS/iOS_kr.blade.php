@@ -120,6 +120,30 @@
         </div>
     </div>
 </section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/nicos.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">청구액・포인트 잔액 확인 어플</h1>
+            <p class="blog-post_text">청구액・포인트 잔액 확인 어플 보수/수정 작업</p>
+            <p class="blog-post_text">언어：swift</p>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/spiderplus.jpeg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">건축 어플</h1>
+            <p class="blog-post_text">건축현장에서 쓰이는 어플 개발</p>
+            <p class="blog-post_text">언어：SwiftUI</p>
+        </div>
+    </div>
+</section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>
 </html>

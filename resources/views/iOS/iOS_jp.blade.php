@@ -120,6 +120,30 @@
         </div>
     </div>
 </section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/nicos.png') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">請求額・ポイント残高確認アプリ</h1>
+            <p class="blog-post_text">請求額・ポイント残高確認アプリ保守・修正作業</p>
+            <p class="blog-post_text">言語：swift</p>
+        </div>
+    </div>
+</section>
+<section class="home-section">
+    <div class="blog-post">
+        <div class="blog-post_img">
+            <img src="{{ asset('images/iOS/spiderplus.jpeg') }}" alt="">
+        </div>
+        <div class="blog-post_info">
+            <h1 class="blog-post_title">建築アプリ</h1>
+            <p class="blog-post_text">建築現場で使うアプリの開発</p>
+            <p class="blog-post_text">言語：SwiftUI</p>
+        </div>
+    </div>
+</section>
 <script src="{{ asset('js/web_script.js') }}"></script>
 </body>
 </html>

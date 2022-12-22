@@ -76,13 +76,13 @@
             <li><span class="first-block">Full Name:</span><span class="second-block">Jihoon Jeon</span></li>
             <li><span class="first-block">Nationality:</span><span class="second-block">Republic of Korea</span></li>
             <li><span class="first-block">Phone:</span><span class="second-block">+81 080-7808-9223</span></li>
-            <li><span class="first-block">Email:</span><span class="second-block">junji636@gmail.com</span></li>
+            <li><span class="first-block">Email:</span><span class="second-block">jhiosdevelop@gmail.com</span></li>
             <li><span class="first-block">Blog:</span><span class="second-block"><a href="https://velog.io/@ddara23" target="_blank">velog</a></span></li>
           </ul>
         </div>
         <div class="col-md-8">
           <h2>Hello I'm Jihoon!</h2>
-          <p>I've been living in Tokyo for 3 years. I developed JAVA for about a year and a half, and now I am developing iOS apps and web development using php.</p>
+          <p>I've been living in Tokyo for 5 years. I developed JAVA for about a year and a half, and now I am developing iOS apps and web development using php.</p>
           <p>enthusiasm for learning new skills, Adapted to a variety of business environments and I can work quickly according to plans and schedules.</p>
           <p>
             <ul class="fh5co-social-icons">
@@ -319,6 +319,7 @@
       <div class="row animate-box">
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
           <h2>Work</h2>
+          <h4 style="color: white">* Touch the image to confirm *</h4>
         </div>
       </div>
       <div class="row">
