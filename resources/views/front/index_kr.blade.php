@@ -76,13 +76,13 @@
         <li><span class="first-block">이름 : </span><span class="second-block">전지훈</span></li>
         <li><span class="first-block">국적 : </span><span class="second-block">대한민국</span></li>
         <li><span class="first-block">전화 : </span><span class="second-block">+81 080-7808-9223</span></li>
-        <li><span class="first-block">이메일 : </span><span class="second-block">junji636@gmail.com</span></li>
+        <li><span class="first-block">이메일 : </span><span class="second-block">jhiosdevelop@gmail.com</span></li>
         <li><span class="first-block">블로그 : </span><span class="second-block"><a href="https://velog.io/@ddara23" target="_blank">velog</a></span></li>
         </ul>
     </div>
     <div class="col-md-8">
         <h2>Hello I'm Jihoon!</h2>
-        <p>현재 도쿄에서 3년 째 거주 중인 개발자 입니다. 1년 반 정도 java개발을 했었고 현재 ios어플 개발, php를 이용한 웹개발을 하고 있습니다.</p>
+        <p>현재 도쿄에서 5년 째 거주 중인 개발자 입니다. 1년 반 정도 java개발을 했었고 현재 ios어플 개발, php를 이용한 웹개발을 하고 있습니다.</p>
         <p>새로운 기술을 배우는 것에 대한 열정, 여러 업무환경에 대한 적응, 계획과 스케쥴에 맞춰 신속하게 업무를 진행할 수 있습니다.</p>
         <p>
         <ul class="fh5co-social-icons">
@@ -107,6 +107,18 @@
         <ul class="timeline">
         <li class="timeline-heading text-center animate-box">
             <div><h3>Work Experience</h3></div>
+        </li>
+        <li class="timeline-inverted animate-box">
+            <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+            <div class="timeline-panel">
+                <div class="timeline-heading">
+                    <h3 class="timeline-title">スパイダープラス株式会社(스파이더플러스 주식회사)</h3>
+                    <span class="company">2022.04.01 ~ 현재</span>
+                </div>
+                <div class="timeline-body">
+                    <p>iOS develop</p>
+                </div>
+            </div>
         </li>
         <li class="animate-box timeline-unverted">
             <div class="timeline-badge"><i class="icon-suitcase"></i></div>
@@ -260,10 +272,10 @@
         <div class="chart" data-percent="60"><span><strong>Kotlin</strong>60%</span></div>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-        <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>75%</span></div>
+        <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>70%</span></div>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-        <div class="chart" data-percent="75"><span><strong>swift</strong>75%</span></div>
+        <div class="chart" data-percent="75"><span><strong>swift(SwiftUI)</strong>80%</span></div>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-12 text-center">
         <div class="chart" data-percent="70"><span><strong>MySql</strong>70%</span></div>
@@ -307,6 +319,7 @@
     <div class="row animate-box">
     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
         <h2>Work</h2>
+        <h4 style="color: white">* 이미지를 터치해서 확인해주세요 *</h4>
     </div>
     </div>
     <div class="row">

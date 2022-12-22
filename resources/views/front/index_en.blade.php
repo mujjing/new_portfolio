@@ -76,13 +76,13 @@
             <li><span class="first-block">Full Name:</span><span class="second-block">Jihoon Jeon</span></li>
             <li><span class="first-block">Nationality:</span><span class="second-block">Republic of Korea</span></li>
             <li><span class="first-block">Phone:</span><span class="second-block">+81 080-7808-9223</span></li>
-            <li><span class="first-block">Email:</span><span class="second-block">junji636@gmail.com</span></li>
+            <li><span class="first-block">Email:</span><span class="second-block">jhiosdevelop@gmail.com</span></li>
             <li><span class="first-block">Blog:</span><span class="second-block"><a href="https://velog.io/@ddara23" target="_blank">velog</a></span></li>
           </ul>
         </div>
         <div class="col-md-8">
           <h2>Hello I'm Jihoon!</h2>
-          <p>I've been living in Tokyo for 3 years. I developed JAVA for about a year and a half, and now I am developing iOS apps and web development using php.</p>
+          <p>I've been living in Tokyo for 5 years. I developed JAVA for about a year and a half, and now I am developing iOS apps and web development using php.</p>
           <p>enthusiasm for learning new skills, Adapted to a variety of business environments and I can work quickly according to plans and schedules.</p>
           <p>
             <ul class="fh5co-social-icons">
@@ -108,6 +108,18 @@
             <li class="timeline-heading text-center animate-box">
               <div><h3>Work Experience</h3></div>
             </li>
+            <li class="timeline-inverted animate-box">
+              <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+              <div class="timeline-panel">
+                  <div class="timeline-heading">
+                      <h3 class="timeline-title">スパイダープラス株式会社(SpiderPlus(C))</h3>
+                      <span class="company">2022.04.01 ~ now</span>
+                  </div>
+                  <div class="timeline-body">
+                      <p>iOS develop</p>
+                  </div>
+              </div>
+          </li>
             <li class="animate-box timeline-unverted">
               <div class="timeline-badge"><i class="icon-suitcase"></i></div>
               <div class="timeline-panel">
@@ -260,10 +272,10 @@
             <div class="chart" data-percent="60"><span><strong>Kotlin</strong>60%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-            <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>75%</span></div>
+            <div class="chart" data-percent="75"><span><strong>php(laravel)</strong>70%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
-            <div class="chart" data-percent="75"><span><strong>swift</strong>75%</span></div>
+            <div class="chart" data-percent="75"><span><strong>swift(SwiftUI)</strong>80%</span></div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
             <div class="chart" data-percent="70"><span><strong>MySql</strong>70%</span></div>
@@ -307,6 +319,7 @@
       <div class="row animate-box">
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
           <h2>Work</h2>
+          <h4 style="color: white">* Touch the image to confirm *</h4>
         </div>
       </div>
       <div class="row">
