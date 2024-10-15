@@ -1125,8 +1125,13 @@ a:hover, a:active {
     color: #EF3724 !important;
 }
 
-.theme-red .btn-theme {
+.theme-red .btn-theme-red {
     background-color: #EF3724;
+    color: #fff;
+}
+
+.theme-red .btn-theme-gray {
+    background-color: #52565c;
     color: #fff;
 }
 
@@ -1155,7 +1160,12 @@ a:hover, a:active {
     box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
 }
 
-.theme-red .btn-fab {
+.theme-red .btn-fab-gray {
+    background-color: #52565c;
+    color: #fff;
+}
+
+.theme-red .btn-fab-red {
     background-color: #EF3724;
     color: #fff;
 }
